@@ -2,6 +2,8 @@
 
 A full-stack **Smart Task Planner** web application that uses AI to transform high-level goals into structured, actionable task plans. Built with Node.js, Express, MongoDB, React, and integrated with Groq AI for intelligent plan generation.
 
+## Demo Video-https://drive.google.com/drive/folders/1vez5dRBEcYtSpR5xSQyQNPosiAzzYU4o?usp=drive_link
+
 ## 🎯 Features
 
 - **AI-Powered Plan Generation**: Convert goals into detailed task plans using Groq AI (with fallback to mocked generation)
